@@ -5876,6 +5876,8 @@ button.mfp-close:hover{
 .portfolio-wrapper .portfolio-item{
     width:100%;
     text-align:left
+    margin-right: 10px;
+    float: left;
 }
 .portfolio-wrapper.column-1 .portfolio-item{
     width:100%
