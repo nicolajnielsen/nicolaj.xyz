@@ -5139,10 +5139,10 @@ i{
     margin-bottom:20px
 }
 .gallery-wrapper{
-    margin:0
+    margin:10
 }
 .gallery-wrapper div[class*=" col-"],.gallery-wrapper div[class^=col-]{
-    margin:0
+    margin:10
 }
 .gallery-wrapper .gallery-box .gallery-img{
     position:relative;
