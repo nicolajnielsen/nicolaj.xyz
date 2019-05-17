@@ -6136,8 +6136,8 @@ button.mfp-close:hover{
     background:0 0
 }
 .portfolio-item .portfolio-box{
-    position:relative
-    margin-right: 10;
+    position:absolute
+    padding-right: 10px;
 
 }
 .portfolio-item .portfolio-box .portfolio-img{
