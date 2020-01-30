@@ -7291,7 +7291,8 @@ body.loaded:after{
     padding:160px 20px
 }
 .section-xl{
-    padding:150px 0
+    padding:180px 0
+    padding-bottom:130px
 }
 .section-xl.bg-image .container,.section-xl.bg-image .container-fluid{
     padding:200px 20px
