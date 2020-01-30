@@ -7285,13 +7285,13 @@ body.loaded:after{
     padding:100px 20px
 }
 .section-lg{
-    padding:160px 0
+    padding:120px 0
 }
 .section-lg.bg-image .container,.section-lg.bg-image .container-fluid{
     padding:160px 20px
 }
 .section-xl{
-    padding:200px 0
+    padding:150px 0
 }
 .section-xl.bg-image .container,.section-xl.bg-image .container-fluid{
     padding:200px 20px
